@@ -195,25 +195,3 @@ Caso a `cor principal` do time da casa seja **diferente** da `cor principal` do 
 
 Long `idTimeDaCasa`* Identificador do time da casa
 Long `idTimeDeFora`* Identificador do time de fora
-
-## Tópicos
-
-Neste desafio você aprenderá:
-
-- Variáveis e métodos
-- Operadores matemáticos
-- Controle de fluxo
-- Listas
-- Tratamento de exceções
-
-## Requisitos
-​
-​Para este desafio você precisará :
-
-- Java 8 +
-
-Para instalar no MacOS, usando o HomeBrew basta executar:
-
-    brew cask install java
-
-dPara instalar no Linux e Windows confira os links na sessão de conteúdo
